@@ -1,6 +1,5 @@
 dow = int(input("Enter the number of day:"))
 
-
 if dow == 1:
     print("Sunday")
 elif dow == 2:
